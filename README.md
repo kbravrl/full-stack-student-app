@@ -28,4 +28,6 @@ This is a simple student management system built with React for the frontend and
 ```bash
 git clone https://github.com/yourusername/student-management-system.git
 
-[1.webm](https://github.com/user-attachments/assets/42a7124b-65df-471c-ab46-6cef13aa51a5)
+https://github.com/user-attachments/assets/c9e54144-55ea-4ee8-8540-5c07e233d73f
+
+
