@@ -24,10 +24,25 @@ This is a simple student management system built with React for the frontend and
 ## Installation
 
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/student-management-system.git
 
-```bash
-git clone https://github.com/yourusername/student-management-system.git
+[1.webm](https://github.com/user-attachments/assets/b5f14564-cf87-4ad1-96f9-a11dd1e412a0)
 
-https://github.com/user-attachments/assets/c9e54144-55ea-4ee8-8540-5c07e233d73f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
