@@ -21,12 +21,6 @@ This is a simple student management system built with React for the frontend and
 - Express.js
 - MySQL
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/student-management-system.git
-
 [1.webm](https://github.com/user-attachments/assets/b5f14564-cf87-4ad1-96f9-a11dd1e412a0)
 
 
