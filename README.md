@@ -1,22 +1,20 @@
 # full-stack-student-app
 
-This is a simple student management system built with React for the frontend and Node.js/Express with MySQL for the backend. The application allows users to create, update, view, and delete student records.
+Bu uygulama frontend için React backend için MySQL, Node.js/Express ile oluşturulmuş basit bir öğrenci yönetim sistemidir. Uygulama, kullanıcıların öğrenci kayıtlarını oluşturmasına, güncellemesine, görüntülemesine ve silmesine olanak tanır.
 
-## Features
+## Özellikler
 
-- List all students
-- Add new students
-- Update student information
-- Delete a student record
+- Tüm öğrencileri listele
+- Yeni öğrenciler ekle
+- Öğrenci bilgilerini güncelle
+- Bir öğrenci kaydını sil
 
-## Tech Stack
-
-### Frontend:
+### frontend:
 - React.js
-- Axios (for API requests)
-- React Router (for navigation)
+- Axios (API istekleri için)
+- React Router (gezinme için)
 
-### Backend:
+### backend:
 - Node.js
 - Express.js
 - MySQL
